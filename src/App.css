@@ -1,0 +1,47 @@
+body{
+  font-family: sans-serif;
+}
+.quiz-app{
+  text-align: center;
+}
+.quiz-components{
+  margin: 20px auto;
+  width: 60%;
+  border: 1px solid red;
+  padding: 15px;
+  border-radius: 10px;
+}
+
+
+.options{
+  /* display: flex; */
+  /* text-decoration: none; */
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: auto auto;
+  gap: 10px;
+}
+.question-comp h2{
+  margin-bottom: 40px;
+}
+.options > li >button
+{
+  padding: 10px;
+ width: 100%; 
+ 
+}
+.btn-grp > button{
+  
+  display: grid;
+  width: 100%;
+  margin-bottom: 10px;
+  background-color: aqua;
+
+}
+button{
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  padding: 10px;
+}

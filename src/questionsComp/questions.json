@@ -1,0 +1,93 @@
+[
+    {
+      "question": "Who is known as the God of Cricket?",
+      "ansOption": [
+        { "text": "Sachin Tendulkar", "isCorrect": true },
+        { "text": "Ricky Ponting", "isCorrect": false },
+        { "text": "Virat Kohli", "isCorrect": false },
+        { "text": "MS Dhoni", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the capital of India?",
+      "ansOption": [
+        { "text": "Mumbai", "isCorrect": false },
+        { "text": "Kolkata", "isCorrect": false },
+        { "text": "New Delhi", "isCorrect": true },
+        { "text": "Bengaluru", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which programming language is used for ReactJS?",
+      "ansOption": [
+        { "text": "Python", "isCorrect": false },
+        { "text": "JavaScript", "isCorrect": true },
+        { "text": "Ruby", "isCorrect": false },
+        { "text": "C++", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "ansOption": [
+        { "text": "Earth", "isCorrect": false },
+        { "text": "Mars", "isCorrect": true },
+        { "text": "Jupiter", "isCorrect": false },
+        { "text": "Venus", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who is the author of 'Harry Potter'?",
+      "ansOption": [
+        { "text": "J.K. Rowling", "isCorrect": true },
+        { "text": "George R.R. Martin", "isCorrect": false },
+        { "text": "Agatha Christie", "isCorrect": false },
+        { "text": "Stephen King", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the square root of 64?",
+      "ansOption": [
+        { "text": "6", "isCorrect": false },
+        { "text": "8", "isCorrect": true },
+        { "text": "10", "isCorrect": false },
+        { "text": "12", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which is the largest ocean in the world?",
+      "ansOption": [
+        { "text": "Atlantic Ocean", "isCorrect": false },
+        { "text": "Indian Ocean", "isCorrect": false },
+        { "text": "Pacific Ocean", "isCorrect": true },
+        { "text": "Arctic Ocean", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Which country is known as the Land of Rising Sun?",
+      "ansOption": [
+        { "text": "India", "isCorrect": false },
+        { "text": "China", "isCorrect": false },
+        { "text": "Japan", "isCorrect": true },
+        { "text": "Thailand", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "Who invented the telephone?",
+      "ansOption": [
+        { "text": "Alexander Graham Bell", "isCorrect": true },
+        { "text": "Thomas Edison", "isCorrect": false },
+        { "text": "Nikola Tesla", "isCorrect": false },
+        { "text": "James Watt", "isCorrect": false }
+      ]
+    },
+    {
+      "question": "What is the chemical symbol for water?",
+      "ansOption": [
+        { "text": "H2O", "isCorrect": true },
+        { "text": "CO2", "isCorrect": false },
+        { "text": "O2", "isCorrect": false },
+        { "text": "NaCl", "isCorrect": false }
+      ]
+    }
+  ]
+  
